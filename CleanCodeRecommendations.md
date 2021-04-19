@@ -28,7 +28,13 @@ A name of a variable, function, or class, should answer why it exists, what it d
 
 - Test code is not second-class citizen, it is as important as production code. It must be kept as clean as production code.
 
-## SOLID
+## Nullable
+
+- If method returns null(or there is a possibility to return null), it should either be marked as javax.annotation.Nullable or method should return Optional.
+- If an argument from the argument list is null(or there is a possibility to point to null) it should either be marked as javax.annotation.Nullable or argument should be Optional
+- If a class member points to null(or there is a possibility to point to null) it should either be marked with javax.annotation.Nullable or class member should be Optional.
+
+## Follow SOLID principles
 
 1. There should never be more than one reason for a class to change(SRP)[2, p. 95]
 2. Software entities(classes, modules, functions) should be open for extension, but closed for modification(OCP)[2, p.99]
