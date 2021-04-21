@@ -18,14 +18,10 @@ A name of a variable, function, or class, should answer why it exists, what it d
 - Name of a function should clearly express what it does and nothing else. If function is named as "read" it should do only read operation.
 
 ## Comments[1, p.84]
-“Don’t comment bad code—rewrite it.” — Brian W. Kernighan and P. J. Plaugher 1
-
 - When you find yourself in a position where you need to write a comment, think it through and see whether there isn’t some way to turn the tables and express yourself in code
 - TODO comments should not be an excuse to leave bad code in the system
 
 ## Tests[1, p.152]
-"If you let the tests rot, then your code will rot too. Keep your tests clean." — Robert C.Martin
-
 - Test code is not second-class citizen, it is as important as production code. It must be kept as clean as production code.
 
 ## Nullable
@@ -43,5 +39,5 @@ A name of a variable, function, or class, should answer why it exists, what it d
 5. Many client-specific interfaces are better than one general-purpose interface(ISP)[2, 135]
 
 # References:
-1. [Clean Code : A Handbook of Agile Software Craftsmanship, Robert Martin](Clean.Code.2008.pdf)
-2. [Agile Software Development, Principles, Patterns, and Practices, Robert Martin](Agile.Software.Development.pdf)
+1. [Clean Code : A Handbook of Agile Software Craftsmanship, Robert Martin](https://www.dropbox.com/s/4dhsims057sej48/Clean.Code.2008.8.pdf?dl=0)
+2. [Agile Software Development, Principles, Patterns, and Practices, Robert Martin](https://www.dropbox.com/s/41zm2sxs57fe280/The%20Clean%20Coder-A%20Code%20of%20Conduct%20for%20Professional%20Programmers.pdf?dl=0)
