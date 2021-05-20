@@ -40,4 +40,4 @@ A name of a variable, function, or class, should answer why it exists, what it d
 
 # References:
 1. [Clean Code : A Handbook of Agile Software Craftsmanship, Robert Martin](https://www.dropbox.com/s/4dhsims057sej48/Clean.Code.2008.8.pdf?dl=0)
-2. [Agile Software Development, Principles, Patterns, and Practices, Robert Martin](https://www.dropbox.com/s/41zm2sxs57fe280/The%20Clean%20Coder-A%20Code%20of%20Conduct%20for%20Professional%20Programmers.pdf?dl=0)
+2. [Agile Software Development, Principles, Patterns, and Practices, Robert Martin](https://www.dropbox.com/s/cbdxhhn3nmikxwq/Agile%20Software%20Development%2C%20Principles%2C%20Patterns%2C%20and%20Practices%20%28%20PDFDrive%20%29.pdf?dl=0)
