@@ -34,9 +34,8 @@ A name of a variable, function, or class, should answer why it exists, what it d
 
 1. There should never be more than one reason for a class to change(SRP)[2, p. 95]
 2. Software entities(classes, modules, functions) should be open for extension, but closed for modification(OCP)[2, p.99]
-3. Subtypes must be substitutable for their base types(LSP)[2, p.111]
-4. Abstraction should not depend on details. Details should depend on abstractions(DIP)[2, p.127]
-5. Many client-specific interfaces are better than one general-purpose interface(ISP)[2, 135]
+3. Abstraction should not depend on details. Details should depend on abstractions(DIP)[2, p.127]
+4. Many client-specific interfaces are better than one general-purpose interface(ISP)[2, 135]
 
 # References:
 1. [Clean Code : A Handbook of Agile Software Craftsmanship, Robert Martin](https://www.dropbox.com/s/4dhsims057sej48/Clean.Code.2008.8.pdf?dl=0)
